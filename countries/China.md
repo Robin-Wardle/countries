@@ -1,14 +1,11 @@
 ##China
-## population
+## population - 13000000	
 
-
-## capital
-
+## capital - Beijing
  
-## official language
+## official language - Mandarin	
 
-
-## interesting trivia
+## interesting trivia 
 
 
 
