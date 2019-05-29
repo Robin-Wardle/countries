@@ -1,14 +1,14 @@
 ##Peru
-## population
+## population - 32 million
 
 
-## capital
+## capital - Machu Picchu
 
  
-## official language
+## official language - spanish
 
 
-## interesting trivia
+## interesting trivia - Over 3,000 variations of potatoes grown in the country. 
 
 
 
