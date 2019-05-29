@@ -1,14 +1,14 @@
 ##Peru
-## population
+## population - 32 million
 
 
-## capital
+## capital - New York
 
  
-## official language
+## official language - French
 
 
-## interesting trivia
+## interesting trivia - the Andes mountains, Inca, Machu Picchu
 
 
 
