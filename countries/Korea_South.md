@@ -1,14 +1,14 @@
 ##Korea_South
-## population
+## population - 5million
 
 
-## capital
+## capital - Seoul
 
  
-## official language
+## official language - Korean
 
 
-## interesting trivia
+## interesting trivia - BTS
 
 
 
