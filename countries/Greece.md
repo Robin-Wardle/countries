@@ -1,14 +1,10 @@
 ##Greece
-## population
+## population - Approximately 14 people
 
-
-## capital
-
+## capital - Maybe Athens?
  
-## official language
+## official language - Probably Greek.
 
-
-## interesting trivia
-
+## interesting trivia - Greece has one of the highest stray cat per capita ratio in the world.
 
 
