@@ -1,14 +1,14 @@
 ##Bhutan
-## population
+## population - 807, 610
 
 
-## capital
+## capital - Thimphu
 
  
-## official language
+## official language - Dzongkha
 
 
-## interesting trivia
+## interesting trivia - First country to have a consititutional obligation to protect the environment.
 
 
 
