@@ -2,10 +2,10 @@
 ## population
 
 
-## capital
+## capital DHAKA
 
  
-## official language
+## official language Bengali
 
 
 ## interesting trivia
