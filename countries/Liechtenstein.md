@@ -3,7 +3,7 @@
 This country is very, very small.  But people live there.
 
 ## capital
-
+Vaduz
  
 ## official language
 Since Liechtenstein is bordered by several countries they speak many languages.
