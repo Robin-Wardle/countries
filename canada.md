@@ -6,4 +6,5 @@
 ## Capital
 Ottawa
 
-## Interesting trivia
+## Independence
+July 1, 1867
