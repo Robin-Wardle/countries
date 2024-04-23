@@ -1,4 +1,7 @@
-##Dogtopia
+# Dogtopia
+## Flag
+![flag of dogtopia](https://m.media-amazon.com/images/I/61BS-CtICfL._UF1000,1000_QL80_.jpg)
+
 ## Population
 0 humans
 1 trillion dogs
